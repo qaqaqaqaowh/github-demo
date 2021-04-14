@@ -1,3 +1,11 @@
 hello world
 
 Hi NIC!
+
+master     feature/login
+   |
+   .--------------.
+   				  |
+   				  |
+   				  |
+   				  .
